@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0c32844-b54c-45db-ad35-9a3255e98fa4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="177" />
+    <option name="y" value="171" />
+    <option name="width" value="1400" />
+    <option name="height" value="837" />
+  </component>
+  <component name="ProjectId" id="1apiAX1cxTSBBSrA9AV0wdCQ8EY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0c32844-b54c-45db-ad35-9a3255e98fa4" name="Default Changelist" comment="" />
+      <created>1548427017566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548427017566</updated>
+      <workItem from="1548427019510" duration="386000" />
+      <workItem from="1548489832885" duration="234000" />
+      <workItem from="1548490332186" duration="182000" />
+      <workItem from="1587438799259" duration="1758000" />
+      <workItem from="1587713321625" duration="718000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587439049106">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1587439049106" />
+    <state x="572" y="354" key="Github.ShareDialog" timestamp="1587439922029">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="572" y="354" key="Github.ShareDialog/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1587439922029" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1587713490085">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1587439504940" />
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1587713490085" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1587713714753">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1587440340883" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.23.1920.1057@0.0.1440.900" timestamp="1587440433555" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1587713714753" />
+    <state x="508" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587713735478">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="508" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1587440325706" />
+    <state x="508" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900/1440.23.1920.1057@0.0.1440.900" timestamp="1587440425480" />
+    <state x="508" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1587713735478" />
+    <state x="417" y="181" width="606" height="538" key="find.popup" timestamp="1587440118540">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="417" y="181" width="606" height="538" key="find.popup/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1587440118540" />
+    <state x="446" y="245" key="git4idea.merge.GitMergeDialog" timestamp="1587439391281">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="446" y="245" key="git4idea.merge.GitMergeDialog/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1587439391281" />
+    <state x="542" y="351" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1587713570386">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="542" y="351" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1440.900@0.0.1440.900" timestamp="1587713570386" />
+    <state x="458" y="351" key="git4idea.ui.GitResetDialog" timestamp="1587440313853">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="351" key="git4idea.ui.GitResetDialog/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1587440313853" />
+  </component>
+</project>
